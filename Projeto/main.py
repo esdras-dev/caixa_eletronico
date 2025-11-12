@@ -3,7 +3,7 @@ print("Bem-vindo ao Caixa Eletrônico!\n")
 
 def login():
     while True:
-            senha = "Brenda1234$"
+            senha = "1234"
             senha_usuario = input("Digite sua senha de acesso: ")
 
             if senha_usuario == senha:
